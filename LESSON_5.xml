@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSpellResult>
+    <SpellResult>
+        <error code="1" pos="0" row="0" col="0" len="7">
+            <word>варобей</word>
+            <s>воробей</s>
+            <s>варабей</s>
+            <s>горобей</s>
+        </error>
+    </SpellResult>
+</ArrayOfSpellResult>
